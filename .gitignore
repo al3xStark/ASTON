@@ -1,0 +1,46 @@
+﻿# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# Java archive artifacts
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
+
+# Build directories
+bin/
+out/
+build/
+target/
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
